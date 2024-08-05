@@ -1,0 +1,25 @@
+Историю их проектов хранит отдельная программа — система контроля версий
+(англ. Version Control System, или коротко VCS).
+💡 Для обозначения систем контроля версий используют не только аббревиатуру VCS,
+но и SCM (от англ. Source Control Management — «система управления исходным кодом»).
+
+1. Установка Git:
+https://practicum.yandex.ru/trainer/git-basics/lesson/6b974f5e-f348-45c5-8fa7-7d735941fe21/
+
+2. Настройка Git:
+https://practicum.yandex.ru/trainer/git-basics/lesson/78b36e35-a564-4a33-91d1-86dbb47dad23/
+
+3. Создаем аккаунт Github:
+https://practicum.yandex.ru/trainer/git-basics/lesson/f7e00d04-1da2-46b4-b13d-b0bf751caf88/
+
+4. Создаем удаленные репозиторий:
+https://practicum.yandex.ru/trainer/git-basics/lesson/8f24a4d9-07bf-4f9b-8fff-e7f1a2e452cc/
+
+5. Создаем SSH ключи:
+https://practicum.yandex.ru/trainer/git-basics/lesson/42435683-0922-4231-bfb4-d7d32d61f50a/
+
+6. Привязываем SSH ключи к Github:
+https://practicum.yandex.ru/trainer/git-basics/lesson/4d662a58-3602-4c5c-9fad-be8cff334f37/
+
+7. Связываем локальный и удаленный репозитории:
+https://practicum.yandex.ru/trainer/git-basics/lesson/19d174db-bd33-4307-a8e7-61b749a1639c/
