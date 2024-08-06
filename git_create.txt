@@ -23,3 +23,15 @@ https://practicum.yandex.ru/trainer/git-basics/lesson/4d662a58-3602-4c5c-9fad-be
 
 7. Связываем локальный и удаленный репозитории:
 https://practicum.yandex.ru/trainer/git-basics/lesson/19d174db-bd33-4307-a8e7-61b749a1639c/
+
+8. Создаем схему в mermiad:
+Чтобы получить mermaid-схему в README.md, нужно добавить блок кода типа mermaid.
+HEAD -- это голова.
+Коммит -- это всему голова.
+Статусы файлов:
+<тут пустая строка!>
+
+```mermaid
+%% описание схемы
+```
+<и тут пустая строка!> 
